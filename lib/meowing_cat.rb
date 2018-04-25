@@ -7,4 +7,4 @@ def meow
   end
 end
 
-Cat 
+Cat
