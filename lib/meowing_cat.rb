@@ -1,10 +1,12 @@
 ## code your solution here.
 class Cat
-  attr_accessor :name = "Maru"
+  attr_accessor :name
 
 def meow
   puts "meow!"
   end
 end
 
-Cat
+Maru = Cat.new
+Maru.name = "Maru"
+Maru.meow
